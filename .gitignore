@@ -1,10 +1,9 @@
-.settings/
 FLASH/
-Project_Settings/
+.settings/
 .cproject
 .cwGeneratedFileSetLog
 .ProcessorExpert.g_c
 .ProcessorExpert.g_x
-.project 
-ProcessorExpert.pe 
+.project
+ProcessorExpert.pe
 ReferencedRSESystems.xml
