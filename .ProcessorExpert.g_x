@@ -1,0 +1,76 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="4">
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/iofiles"</Line>
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/pdd/inc"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2020-12-27, 14:54:36" FileAge="1609088076515" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/ESP.c" FileDate="2020-12-19, 16:24:58" FileAge="1608402298913" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/LEDpin1.c" FileDate="2020-12-27, 14:54:35" FileAge="1609088075952" FileType="45637" CompNumb="25" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2020-12-27, 14:54:36" FileAge="1609088076493" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/LEDR.h" FileDate="2020-12-27, 14:54:35" FileAge="1609088075948" FileType="45637" CompNumb="15" />
+      <File Name="Sources/Events.h" FileDate="2020-12-27, 14:54:36" FileAge="1609088076545" FileType="131328" />
+      <File Name="Documentation/doxygen/BitIoLdd1.txt" FileDate="2020-12-27, 14:54:35" FileAge="1609088075961" FileType="45637" CompNumb="26" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2020-12-19, 15:43:42" FileAge="1608399822260" FileType="45637" />
+      <File Name="Generated_Code/BitIoLdd3.h" FileDate="2020-12-27, 14:54:35" FileAge="1609088075880" FileType="45637" CompNumb="23" />
+      <File Name="Generated_Code/LEDR.c" FileDate="2020-12-27, 14:54:35" FileAge="1609088075944" FileType="45637" CompNumb="15" />
+      <File Name="Sources/Events.c" FileDate="2020-12-20, 11:13:35" FileAge="1608470015169" FileType="131328" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2020-12-27, 14:54:36" FileAge="1609088076325" FileType="45637" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2020-12-19, 15:43:42" FileAge="1608399822264" FileType="45637" />
+      <File Name="Generated_Code/LEDBconfig.h" FileDate="2020-12-27, 14:54:35" FileAge="1609088075845" FileType="45637" CompNumb="21" />
+      <File Name="Generated_Code/BitIoLdd3.c" FileDate="2020-12-27, 14:54:35" FileAge="1609088075874" FileType="45637" CompNumb="23" />
+      <File Name="Generated_Code/BitIoLdd2.h" FileDate="2020-12-27, 14:54:35" FileAge="1609088075935" FileType="45637" CompNumb="20" />
+      <File Name="Generated_Code/BitIoLdd2.c" FileDate="2020-12-27, 14:54:35" FileAge="1609088075932" FileType="45637" CompNumb="20" />
+      <File Name="Project_Settings/Debugger/MKL25Z128.mem" FileDate="2020-12-19, 15:43:42" FileAge="1608399822195" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/ASerialLdd2.h" FileDate="2020-12-19, 16:24:58" FileAge="1608402298925" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/LEDGconfig.h" FileDate="2020-12-27, 14:54:35" FileAge="1609088075884" FileType="45637" CompNumb="18" />
+      <File Name="Generated_Code/ASerialLdd2.c" FileDate="2020-12-19, 16:24:58" FileAge="1608402298923" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/BitIoLdd1.h" FileDate="2020-12-27, 14:54:35" FileAge="1609088075969" FileType="45637" CompNumb="26" />
+      <File Name="Generated_Code/MCUC1.h" FileDate="2020-12-27, 14:54:35" FileAge="1609088075982" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/LEDG.h" FileDate="2020-12-27, 14:54:35" FileAge="1609088075891" FileType="45637" CompNumb="18" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2020-12-19, 15:43:42" FileAge="1608399822091" FileType="16384" CompNumb="2" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2020-12-19, 15:43:42" FileAge="1608399822200" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/BitIoLdd1.c" FileDate="2020-12-27, 14:54:35" FileAge="1609088075965" FileType="45637" CompNumb="26" />
+      <File Name="Generated_Code/ASerialLdd1.h" FileDate="2020-12-19, 16:24:58" FileAge="1608402298939" FileType="45637" CompNumb="7" />
+      <File Name="Generated_Code/MCUC1.c" FileDate="2020-12-27, 14:54:35" FileAge="1609088075978" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/LEDG.c" FileDate="2020-12-27, 14:54:35" FileAge="1609088075887" FileType="45637" CompNumb="18" />
+      <File Name="Generated_Code/ASerialLdd1.c" FileDate="2020-12-19, 16:24:58" FileAge="1608402298935" FileType="45637" CompNumb="7" />
+      <File Name="Documentation/ProcessorExpert.txt" FileDate="2020-12-27, 14:54:37" FileAge="1609088077002" FileType="3072" />
+      <File Name="Documentation/ProcessorExpert_SIGNALS.txt" FileDate="2021-01-02, 10:52:46" FileAge="1609591966917" FileType="3072" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2020-12-19, 15:43:42" FileAge="1608399822187" FileType="8" CompNumb="2" />
+      <File Name="Documentation/doxygen/ProcessorExpert.txt" FileDate="2020-12-27, 14:54:36" FileAge="1609088076447" FileType="45637" CompNumb="2" />
+      <File Name="Documentation/doxygen/BitIoLdd3.txt" FileDate="2020-12-27, 14:54:35" FileAge="1609088075870" FileType="45637" CompNumb="23" />
+      <File Name="Documentation/doxygen/ASerialLdd2.txt" FileDate="2020-12-19, 16:24:58" FileAge="1608402298920" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2020-12-19, 15:43:42" FileAge="1608399822253" FileType="45637" />
+      <File Name="Generated_Code/MCUC1config.h" FileDate="2020-12-27, 14:54:35" FileAge="1609088075973" FileType="45637" CompNumb="13" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2020-12-19, 15:43:42" FileAge="1608399822197" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2020-12-19, 15:43:42" FileAge="1608399822243" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2020-12-27, 14:54:36" FileAge="1609088076532" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/LEDpin3.h" FileDate="2020-12-27, 14:54:35" FileAge="1609088075866" FileType="45637" CompNumb="22" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2020-12-27, 14:54:36" FileAge="1609088076417" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/LEDpin3.c" FileDate="2020-12-27, 14:54:35" FileAge="1609088075857" FileType="45637" CompNumb="22" />
+      <File Name="Generated_Code/PC.h" FileDate="2020-12-19, 16:24:58" FileAge="1608402298930" FileType="45637" CompNumb="6" />
+      <File Name="Documentation/doxygen/BitIoLdd2.txt" FileDate="2020-12-27, 14:54:35" FileAge="1609088075906" FileType="45637" CompNumb="20" />
+      <File Name="Documentation/doxygen/ASerialLdd1.txt" FileDate="2020-12-19, 16:24:58" FileAge="1608402298933" FileType="45637" CompNumb="7" />
+      <File Name="Generated_Code/PC.c" FileDate="2020-12-19, 16:24:58" FileAge="1608402298928" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/LEDpin2.h" FileDate="2020-12-27, 14:54:35" FileAge="1609088075902" FileType="45637" CompNumb="19" />
+      <File Name="Documentation/ProcessorExpert_Settings.xml" FileDate="2020-12-27, 14:54:36" FileAge="1609088076898" FileType="3072" />
+      <File Name="Generated_Code/LEDpin2.c" FileDate="2020-12-27, 14:54:35" FileAge="1609088075897" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/LEDB.h" FileDate="2020-12-27, 14:54:35" FileAge="1609088075852" FileType="45637" CompNumb="21" />
+      <File Name="Sources/ProcessorExpert.c" FileDate="2021-01-02, 10:52:10" FileAge="1609591930702" FileType="128" />
+      <File Name="Generated_Code/LEDRconfig.h" FileDate="2020-12-27, 14:54:35" FileAge="1609088075939" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/ESP.h" FileDate="2020-12-19, 16:24:58" FileAge="1608402298916" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/LEDB.c" FileDate="2020-12-27, 14:54:35" FileAge="1609088075848" FileType="45637" CompNumb="21" />
+      <File Name="Generated_Code/LEDpin1.h" FileDate="2020-12-27, 14:54:35" FileAge="1609088075955" FileType="45637" CompNumb="25" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>4</CodeGenReference>
+</CodeGenerationInfo>
